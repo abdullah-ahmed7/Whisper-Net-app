@@ -1,4 +1,4 @@
-# 🎤 Speech Assistant
+# 🎤 Speech Assistant App
 
 > A modern Windows Forms application that gives voice to your text and converts your speech into written words with ease.
 
